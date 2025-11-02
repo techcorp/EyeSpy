@@ -1,0 +1,7 @@
+rich 
+tqdm 
+requests 
+onvif_zeep 
+#miniupnpc 
+wsdiscovery 
+jinja2
